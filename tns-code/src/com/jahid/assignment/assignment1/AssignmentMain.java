@@ -1,8 +1,8 @@
-package com.jahid.assignment;
+package com.jahid.assignment.assignment1;
 
-import com.jahid.assignment.employees.Manager;
-import com.jahid.assignment.employees.Developer;
-import com.jahid.assignment.utilities.EmployeeUtilities;
+import com.jahid.assignment.assignment1.employees.Developer;
+import com.jahid.assignment.assignment1.employees.Manager;
+import com.jahid.assignment.assignment1.utilities.EmployeeUtilities;
 
 /**
  * Main class to demonstrate the usage of Employee, Manager, Developer, and EmployeeUtilities.

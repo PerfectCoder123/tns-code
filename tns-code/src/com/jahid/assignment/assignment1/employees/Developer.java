@@ -1,4 +1,4 @@
-package com.jahid.assignment.employees;
+package com.jahid.assignment.assignment1.employees;
 
 /**
  * Represents a Developer, extending the Employee class, with an additional attribute programmingLanguage.

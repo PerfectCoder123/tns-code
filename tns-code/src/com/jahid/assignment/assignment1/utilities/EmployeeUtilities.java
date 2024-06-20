@@ -1,8 +1,8 @@
-package com.jahid.assignment.utilities;
+package com.jahid.assignment.assignment1.utilities;
 
-import com.jahid.assignment.employees.Employee;
-import com.jahid.assignment.employees.Manager;
-import com.jahid.assignment.employees.Developer;
+import com.jahid.assignment.assignment1.employees.Developer;
+import com.jahid.assignment.assignment1.employees.Employee;
+import com.jahid.assignment.assignment1.employees.Manager;
 
 /**
  * Utility class for performing operations on Employee objects.

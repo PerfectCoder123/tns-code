@@ -1,4 +1,4 @@
-package com.jahid.assignment.employees;
+package com.jahid.assignment.assignment1.employees;
 
 /**
  * Represents an Employee with a name, employeeId, and salary.

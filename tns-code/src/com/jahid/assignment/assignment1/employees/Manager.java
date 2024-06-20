@@ -1,4 +1,4 @@
-package com.jahid.assignment.employees;
+package com.jahid.assignment.assignment1.employees;
 
 /**
  * Represents a Manager, extending the Employee class, with additional attribute department.
