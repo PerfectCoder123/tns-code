@@ -1,6 +1,6 @@
 package com.jahid.assignment.assignment2;
 /*
- *  This program demonstrates the usage of default constructor 
+ *  This program demonstrates the usage of default constructor and input/output
  */
 public class Main {
     public static void main(String[] args) {
