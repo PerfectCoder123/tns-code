@@ -2,7 +2,7 @@ package com.jahid.assignment.assignment6;
 
 //CheckingAccount class
 class CheckingAccount extends Account {
-private static final int OVERDRAFT_LIMIT = -500; // Overdraft limit of $500
+private static final int OVERDRAFT_LIMIT = -500; // Overdraft limit of 500
 
 public CheckingAccount(String name, int password, int age, String gender, long phone, int balance) {
    super(name, password, age, gender, phone, balance);
