@@ -1,4 +1,4 @@
-package com.jahid.assignment.assignment10;
+package com.jahid.assignment.assignment9;
 
 //Main class to demonstrate the use of custom exception, throw, and throws
 public class Main {

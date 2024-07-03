@@ -1,4 +1,4 @@
-package com.jahid.assignment.assignment10;
+package com.jahid.assignment.assignment9;
 
 //FormValidator class to validate the form data
 class FormValidator {
